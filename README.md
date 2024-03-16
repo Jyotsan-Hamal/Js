@@ -17,13 +17,9 @@ During this exploration, I encountered several interesting concepts and features
 
 4. **ES6 Features**: ECMAScript 6 (ES6) introduced several new features and enhancements to JavaScript, including arrow functions, template literals, destructuring assignment, and the `let` and `const` keywords. These features enhance the readability, maintainability, and expressiveness of JavaScript code.
 
-## Video Presentation
-Please find below a video presentation summarizing my exploration of JavaScript:
+![yoo](meme.jpg)
 
-[![JavaScript Exploration Video](Screencast from 2024-03-15 23-59-12.webm)
 
-## Exploration Image
-![JavaScript Exploration](https://example.com/image.jpg)
 
 ## Conclusion
 This exploration of JavaScript has been both enlightening and rewarding. JavaScript's flexibility, versatility, and ubiquity make it a fascinating language to explore further. I look forward to applying my learnings from this exploration to future projects and endeavors.
