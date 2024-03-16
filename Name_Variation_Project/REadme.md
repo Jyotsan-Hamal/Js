@@ -18,7 +18,7 @@ During this exploration, I encountered several interesting concepts and features
 ## Video Presentation
 Please find below a video presentation summarizing my exploration of JavaScript:
 
-[![JavaScript Exploration Video](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE)
+[![JavaScript Exploration Video](Screencast from 2024-03-15 23-59-12.webm)
 
 ## Exploration Image
 ![JavaScript Exploration](https://example.com/image.jpg)
