@@ -10,5 +10,5 @@ During this exploration, I encountered several interesting concepts and features
 
 4. **ES6 Features**: ECMAScript 6 (ES6) introduced several new features and enhancements to JavaScript, including arrow functions, template literals, destructuring assignment, and the `let` and `const` keywords. These features enhance the readability, maintainability, and expressiveness of JavaScript code.
 
-# Project ScreenShor:
+# Project ScreenShot:
 ![YOo](project.png)
