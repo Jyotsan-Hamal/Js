@@ -14,3 +14,5 @@ JavaScript, often abbreviated as JS, is a high-level, interpreted programming la
 
 ## Conclusion
 This exploration of JavaScript has been both enlightening and rewarding. JavaScript's flexibility, versatility, and ubiquity make it a fascinating language to explore further. I look forward to applying my learnings from this exploration to future projects and endeavors.
+
+![yoo](viber_image_2024-03-23_22-33-09-026.jpg)
